@@ -3,7 +3,7 @@
 
 # PythonUtilityKit
 
-![Language Badge](https://img.shields.io/github/languages/top/PedroBlue13/PythonUtilityKit)
+![Python Badge](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![License](https://img.shields.io/github/license/PedroBlue13/PythonUtilityKit)
 ![Contributors](https://img.shields.io/github/contributors/PedroBlue13/PythonUtilityKit)
 

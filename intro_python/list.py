@@ -7,4 +7,5 @@ while True:
         break
     
     pokemon.append(nome)
+pokemon.sort()
 print(pokemon)

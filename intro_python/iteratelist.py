@@ -13,4 +13,7 @@ for i in dias:
     
 #mais pythonica ainda
 x = list(enumerate(dias)) 
-print(f'valor de x{x}')   
+print(f'valor de x{x}') 
+
+
+  

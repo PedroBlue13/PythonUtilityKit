@@ -1,3 +1,4 @@
+#Receba 4 valores e exiba a soma de todos eles
 
 sum = 0
 y = 0
